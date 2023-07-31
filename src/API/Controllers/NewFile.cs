@@ -96,7 +96,7 @@ namespace API.Controllers
         public string Language { get; set; }
         public string Address { get; set; }
         public string InsuranceInformation { get; set; }
-        // Other relevant properties and methods
+     
     }
 
     public class Patient
