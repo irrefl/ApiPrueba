@@ -8,9 +8,9 @@ namespace DataAccess.Repositories
         private IFruitRepository _fruits;
         private IFruitTypeRepository _fruitTypes;
 
-     public IFruitRepository Fruits => _fruits ??= new FruitRepository(_repoContext);
+        public IFruitRepository Fruits => _fruits ??= new FruitRepository(_repoContext);
 
-     public IFruitTypeRepository FruitTypes => _fruitTypes ??= new FruitTypeRepository(_repoContext);
+        public IFruitTypeRepository FruitTypes => _fruitTypes ??= new FruitTypeRepository(_repoContext);
 
         public RepositoryWrapper(FruitContext r)
         {
