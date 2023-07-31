@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "NHdSc9w84ySncIyWEnJ5wlLwo1uH6PbEzNL+81Xs+dbrcrYFkd+uZCT+DBN35pqICrH6Kfe46ojUnGrsgFPEyw==",
+  "success": true,
+  "projectFilePath": "/home/ziv_xlt4z/Documents/development/number8/src/DataAccess/DataAccess.csproj",
+  "expectedPackageFiles": [
+    "/home/ziv_xlt4z/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/home/ziv_xlt4z/.nuget/packages/microsoft.entityframeworkcore/7.0.9/microsoft.entityframeworkcore.7.0.9.nupkg.sha512",
+    "/home/ziv_xlt4z/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.9/microsoft.entityframeworkcore.abstractions.7.0.9.nupkg.sha512",
+    "/home/ziv_xlt4z/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.9/microsoft.entityframeworkcore.analyzers.7.0.9.nupkg.sha512",
+    "/home/ziv_xlt4z/.nuget/packages/microsoft.entityframeworkcore.design/7.0.9/microsoft.entityframeworkcore.design.7.0.9.nupkg.sha512",
+    "/home/ziv_xlt4z/.nuget/packages/microsoft.entityframeworkcore.relational/7.0.9/microsoft.entityframeworkcore.relational.7.0.9.nupkg.sha512",
+    "/home/ziv_xlt4z/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/home/ziv_xlt4z/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/home/ziv_xlt4z/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/home/ziv_xlt4z/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/home/ziv_xlt4z/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/home/ziv_xlt4z/.nuget/packages/microsoft.extensions.dependencymodel/7.0.0/microsoft.extensions.dependencymodel.7.0.0.nupkg.sha512",
+    "/home/ziv_xlt4z/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/home/ziv_xlt4z/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/home/ziv_xlt4z/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/home/ziv_xlt4z/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/home/ziv_xlt4z/.nuget/packages/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg.sha512",
+    "/home/ziv_xlt4z/.nuget/packages/system.codedom/4.4.0/system.codedom.4.4.0.nupkg.sha512",
+    "/home/ziv_xlt4z/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/home/ziv_xlt4z/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

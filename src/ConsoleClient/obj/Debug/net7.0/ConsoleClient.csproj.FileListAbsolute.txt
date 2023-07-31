@@ -1,0 +1,15 @@
+/home/ziv_xlt4z/Documents/development/number8/src/ConsoleClient/bin/Debug/net7.0/ConsoleClient
+/home/ziv_xlt4z/Documents/development/number8/src/ConsoleClient/bin/Debug/net7.0/ConsoleClient.deps.json
+/home/ziv_xlt4z/Documents/development/number8/src/ConsoleClient/bin/Debug/net7.0/ConsoleClient.runtimeconfig.json
+/home/ziv_xlt4z/Documents/development/number8/src/ConsoleClient/bin/Debug/net7.0/ConsoleClient.dll
+/home/ziv_xlt4z/Documents/development/number8/src/ConsoleClient/bin/Debug/net7.0/ConsoleClient.pdb
+/home/ziv_xlt4z/Documents/development/number8/src/ConsoleClient/obj/Debug/net7.0/ConsoleClient.csproj.AssemblyReference.cache
+/home/ziv_xlt4z/Documents/development/number8/src/ConsoleClient/obj/Debug/net7.0/ConsoleClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/ziv_xlt4z/Documents/development/number8/src/ConsoleClient/obj/Debug/net7.0/ConsoleClient.AssemblyInfoInputs.cache
+/home/ziv_xlt4z/Documents/development/number8/src/ConsoleClient/obj/Debug/net7.0/ConsoleClient.AssemblyInfo.cs
+/home/ziv_xlt4z/Documents/development/number8/src/ConsoleClient/obj/Debug/net7.0/ConsoleClient.csproj.CoreCompileInputs.cache
+/home/ziv_xlt4z/Documents/development/number8/src/ConsoleClient/obj/Debug/net7.0/ConsoleClient.dll
+/home/ziv_xlt4z/Documents/development/number8/src/ConsoleClient/obj/Debug/net7.0/refint/ConsoleClient.dll
+/home/ziv_xlt4z/Documents/development/number8/src/ConsoleClient/obj/Debug/net7.0/ConsoleClient.pdb
+/home/ziv_xlt4z/Documents/development/number8/src/ConsoleClient/obj/Debug/net7.0/ConsoleClient.genruntimeconfig.cache
+/home/ziv_xlt4z/Documents/development/number8/src/ConsoleClient/obj/Debug/net7.0/ref/ConsoleClient.dll

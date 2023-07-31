@@ -1,0 +1,190 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ziv_xlt4z/Documents/development/number8/src/BusinessLogic/BusinessLogic.csproj": {}
+  },
+  "projects": {
+    "/home/ziv_xlt4z/Documents/development/number8/src/BusinessLogic/BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ziv_xlt4z/Documents/development/number8/src/BusinessLogic/BusinessLogic.csproj",
+        "projectName": "BusinessLogic",
+        "projectPath": "/home/ziv_xlt4z/Documents/development/number8/src/BusinessLogic/BusinessLogic.csproj",
+        "packagesPath": "/home/ziv_xlt4z/.nuget/packages/",
+        "outputPath": "/home/ziv_xlt4z/Documents/development/number8/src/BusinessLogic/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ziv_xlt4z/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/ziv_xlt4z/Documents/development/number8/src/DataAccess/DataAccess.csproj": {
+                "projectPath": "/home/ziv_xlt4z/Documents/development/number8/src/DataAccess/DataAccess.csproj"
+              },
+              "/home/ziv_xlt4z/Documents/development/number8/src/Domain/Domain.csproj": {
+                "projectPath": "/home/ziv_xlt4z/Documents/development/number8/src/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.107/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ziv_xlt4z/Documents/development/number8/src/DataAccess/DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ziv_xlt4z/Documents/development/number8/src/DataAccess/DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "/home/ziv_xlt4z/Documents/development/number8/src/DataAccess/DataAccess.csproj",
+        "packagesPath": "/home/ziv_xlt4z/.nuget/packages/",
+        "outputPath": "/home/ziv_xlt4z/Documents/development/number8/src/DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ziv_xlt4z/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/ziv_xlt4z/Documents/development/number8/src/Domain/Domain.csproj": {
+                "projectPath": "/home/ziv_xlt4z/Documents/development/number8/src/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.107/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ziv_xlt4z/Documents/development/number8/src/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ziv_xlt4z/Documents/development/number8/src/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/home/ziv_xlt4z/Documents/development/number8/src/Domain/Domain.csproj",
+        "packagesPath": "/home/ziv_xlt4z/.nuget/packages/",
+        "outputPath": "/home/ziv_xlt4z/Documents/development/number8/src/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ziv_xlt4z/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.107/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
